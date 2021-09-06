@@ -2,7 +2,8 @@
 This repository consists of some art samples of a student e-learning game project called "Das Geheimnis der Kleeblattfarm".
 
 ## [Check out Posters](https://github.com/baumgae/Kleeblatt-Farm-Art/tree/main/01_Posters)
-![Poster](https://github.com/baumgae/Kleeblatt-Farm-Art/blob/main/01_Posters/CMYK_1920_1080_Kleeblattfarm_Plakat_quer.png?raw=true)
+![CMYK_1920_1080_Kleeblattfarm_Plakat_quer](https://user-images.githubusercontent.com/58331777/132182618-dea44f32-7aae-4c9c-8d5d-dabf4230a39e.png)
+
 
 ## [Check out Character Design](https://github.com/baumgae/Kleeblatt-Farm-Art/tree/main/02_Characters)
 ![Willy](https://github.com/baumgae/Kleeblatt-Farm-Art/blob/main/02_Characters/Willy_Turnaround_.png?raw=true)
